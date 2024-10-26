@@ -1,3 +1,3 @@
-# Code_Wanderer
+# code_wanderer
 
-code for code-wanderer youtube channel
+code for code_wanderer youtube channel
